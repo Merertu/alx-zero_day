@@ -1,2 +1,1 @@
-“my second commit”
-i just edited my readme file
+“i just edited my readme file”
